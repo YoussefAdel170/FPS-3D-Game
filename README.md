@@ -1,48 +1,85 @@
-# FPS 3D Game
-## Overview
-This project is a basic first-person shooter (FPS) game created using Unity and C#. The player navigates through the game environment, solves puzzles, and interacts with elements to advance through levels. The game includes basic gameplay features such as enemy detection, health management, and a win/lose condition.
+# 🌟 First Person Shooter 3D Game (Unity & C#)
 
-## Gameplay Features
-### Door Puzzle: 
-#### The player can select colors to change the door’s appearance and use a keypad to unlock it.
+> A first-person shooter (FPS) game created in Unity. Navigate puzzles, avoid enemies, and reach the goal while managing health and resources.
 
-### Enemy AI: 
-#### Enemies patrol areas and will detect the player when approached within a certain range. They shoot at the player when in sight.
+---
 
-### Health System: 
-#### The player can take damage from enemy attacks or specific objects and can heal using health packs scattered around the game.
+## 📖 About
 
-### Win/Lose Conditions:
-#### The player wins by reaching the gift box at the end of the level.
-#### If health runs out, the player loses, triggering a "Game Over" screen.
+**FPS 3D Game** is a basic FPS game built with **Unity** and **C#**.  
+The player explores the environment, solves door puzzles, interacts with objects, and avoids enemies to reach the final goal.
 
-## Project Details
-### Engine: Unity
-### Language: C#
-### File Size: ~1GB
-### Soundtrack: Background music to enhance the gameplay experience.
+---
 
-## Installation
-### To run this project locally:
-#### Clone the repository: git clone git@github.com:YousifAdel170/FPS-3D-Game.git
-#### Open the project in Unity (version compatible with the project files).
-#### Open the main scene to begin gameplay or run the game from Unity.
+## 🎥 Gameplay Video
 
-## Controls
-### Move: W/A/S/D
-### Interact: Press E to interact with keypads, health packs, and other objects.
-### Run: Hold Shift to sprint.
+[Watch Gameplay Video](after-sound.mp4)
 
-## Objective
-### Survive enemy encounters, avoid hazards, and reach the gift box to win the game!
+---
 
-## Project Structure
-### Assets: 
-#### Contains game assets like models, scripts, and scenes.
-### ProjectSettings: 
-#### Unity project configuration files.
-### Scripts: 
-#### C# scripts managing player controls, enemy behavior, health system, and other game mechanics.
+## 🎮 Gameplay Features
 
-## Credits
-Developed by Yousif Adel.
+- **Door Puzzle** – Select colors and use a keypad to unlock doors.
+- **Enemy AI** – Enemies patrol areas and detect the player within range, shooting when in sight.
+- **Health System** – Take damage from enemies or hazards and heal with scattered health packs.
+- **Win/Lose Conditions** – Reach the gift box to win; health depletion triggers a Game Over screen.
+
+---
+
+## 📹 Video
+
+- A gameplay video showcasing movement, puzzles, and interactions is included in the repository.
+
+---
+
+## 🔊 Sound
+
+- Background music enhances the gameplay experience.
+
+---
+
+## 🛠️ Project Details
+
+- **Engine:** Unity
+- **Language:** C#
+- **File Size:** ~1GB
+
+---
+
+## 🚀 Installation
+
+1. **Clone the repository**
+
+   ```bash
+   git clone git@github.com:YousifAdel170/FPS-3D-Game.git
+   ```
+
+2. **Open the project in Unity** (compatible version with project files).
+
+3. **Open the main scene** to start gameplay or run the game from Unity.
+
+---
+
+## ⌨️ Controls
+
+- **Move:** W / A / S / D
+
+- **Interact:** E (keypads, health packs, objects)
+
+- **Run:** Hold Shift to sprint
+
+---
+
+## 🎯 Objective
+
+Survive enemy encounters, avoid hazards, and reach the gift box to win the level.
+
+---
+
+## 📂 Project Structure
+
+- **Assets:** Game assets (models, scripts, scenes)
+
+- **ProjectSettings:** Unity configuration files
+
+- **Scripts:** C# scripts for player controls, enemy AI, health system, and gameplay mechanics
